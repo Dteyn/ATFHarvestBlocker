@@ -1,4 +1,4 @@
-# ATFHarvestBlocker Mod
+# ATF Harvest Blocker Mod
 
 A mod for blocking harvest (in-game currency) gain in [After the Fall VR](https://www.afterthefall-vr.com/).
 
