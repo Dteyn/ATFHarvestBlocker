@@ -31,7 +31,7 @@ This mod is designed to work with version ***1.9.41947*** of After the Fall, aka
    - Download it and extract the .zip to your After the Fall Game Folder.
 
 2. Install the Mod:
-   - Grab the latest `ATFHarvestBlocker.zip` from the [Releases](https://github.com/Dteyn/ATFHarvestBlocker/releases) section of this repository.
+   - Grab the latest `ATFHarvestBlocker-vx.x.x.zip` from the [Releases](https://github.com/Dteyn/ATFHarvestBlocker/releases) section of this repository.
    - Open the .zip and copy `BepInEx` to your After the Fall Game Folder:
      - Steam default location: `C:\Program Files (x86)\Steam\steamapps\common\After The Fall\`
 	 - Rift default location: `C:\Program Files\Oculus\Software\Software\vertigo-games-snowbreed\`
