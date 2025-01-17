@@ -66,4 +66,4 @@ IMPORTANT: You’re modding at your own risk! Mods can cause unexpected behavior
 Have questions, issues, or suggestions? Drop by the [Issues](https://github.com/Dteyn/ATFHarvestBlocker/issues) section of this repo. I’ll do my best to help when I can. You can also find me on the [After the Fall Discord Server](https://discord.gg/afterthefall).
 
 ## Shout-Outs
-Be sure to check out my buddy [Astien's VR mods](https://github.com/Astienth?tab=repositories)! He makes a ton of mods for bHaptics and ProVolver, including a [bHaptics Mod for After the Fall](https://github.com/Astienth/AftertheFall_bHaptics) and [ProVolver Mod for After the Fall](https://github.com/Astienth/AfterTheFall_Provolver). Check them out! :)
+Be sure to check out my buddy [Astienth's VR mods](https://github.com/Astienth?tab=repositories)! He makes a ton of mods for bHaptics and ProVolver, including a [bHaptics Mod for After the Fall](https://github.com/Astienth/AftertheFall_bHaptics) and [ProVolver Mod for After the Fall](https://github.com/Astienth/AfterTheFall_Provolver). Check them out! :)
