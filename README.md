@@ -5,6 +5,8 @@ A mod for blocking harvest (in-game currency) gain in [After the Fall VR](https:
 ## What does this do?
 Blocks all harvest additions to your harvest balance in the game. You’ll still see a harvest amount pop up on screen, however harvest won’t actually be added to your total. 
 
+When this mod is installed, harvest gain is blocked in **all situations**. The main purpose is to prevent refunds from recycling, however it also blocks all harvest gain in any form, including during any kind of run.
+
 ## Why block harvest gain?
 This mod helps users who accidentally received excessive harvest from hackers. It allows players to reduce their balance by buying/recycling weapons and blocking harvest gain from recycling, thus removing unwanted 'free harvest' effectively.
 
